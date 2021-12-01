@@ -279,6 +279,7 @@ section.success {
     }
   } */
 
+.btn,
 .btn-outline {
     margin-top: 15px;
     border: solid 2px #fff;
