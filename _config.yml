@@ -26,14 +26,14 @@ disqus_shortname: spacekay
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 078fb5 #80B3FF
-  primary-rgb: "7, 143, 181" #"128,179,255"
+  primary: 006c8a #80B3FF
+  primary-rgb: "0, 108, 138" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
 # Footer settings
 footer:
-  copyright: 김종희
+  copyright: 김종희 KIM JONGHEE
   location: Location
   social: Around the Web
   credits: Credit
@@ -51,7 +51,7 @@ address:
   - line: bethjkim0311@gmail.com
 
 # Credits content
-credits: 'This page is produced by using<br>Bootstrap Freelancer theme'
+credits: 'This page is powered by<br>Freelancer theme by Bootstrap'
 
 # Build settings
 markdown: kramdown
