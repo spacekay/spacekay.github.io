@@ -1,11 +1,11 @@
 # Site settings
-title: KIM JONG HEE 김종희
+title: KIM JONG HEE
 encoding: UTF-8
 email: bethjkim0311@gmail.com
 url: https://spacekay.github.io/
 description: "웹 개발자를 향한 새로운 도전을 위해 한 발짝을 내딛는, 모험가 김종희입니다."
 keywords: "김종희,spacekay,kimjonghee,backend,java,python,javascript,springboot,django"
-skills: "Imaginative, Risk-taking, Pursuing Self-improvement"
+skills: "김종희 : spacekay<br>Imaginative, Risk-taking, Pursuing Self-improvement"
 meta_author: Kim Jonghee
 
 # Google webmaster tools
@@ -40,8 +40,8 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: blog
-    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: tistory
+    url: http://thespacekay.tistory.com
   - title: github
     url: http://github.com/spacekay
 
