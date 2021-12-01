@@ -1,11 +1,12 @@
 ---
+title: Your NU'EST Song
 layout: default
-modal-id: 1
-date: 2014-07-18
+modal-id: 4
+date: 2012-10-22
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2021-10-22 ~ 2021-12-??
+client: Personal Project
 category: Web Development
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
