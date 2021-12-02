@@ -3,8 +3,8 @@ title: Your NU'EST Song
 layout: default
 modal-id: 2
 date: 2012-10-22
-img: yns.png
-alt: image-alt
+img: yns.PNG
+alt: your-nuest-song
 project-date: 2021-10-22 ~ 2021-12-??
 client: Personal Project
 category: Web Development
