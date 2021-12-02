@@ -8,6 +8,6 @@ alt: kim-jonghee-portfolio
 project-date: 2021-12-01 ~ 2021-12-??
 client: Personal Project
 category: Web Development
-url: https://spacekay.github.io/
+link: https://spacekay.github.io/
 description: 현재까지의 소소한 결과물들을 기록하고, 지금껏 공부한 내용을 복기하고자 하는 의미에서 Jekyll  기반으로 구현한 Portfolio Page입니다.
 ---
