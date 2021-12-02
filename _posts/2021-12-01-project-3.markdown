@@ -4,7 +4,7 @@ layout: default
 modal-id: 3
 date: 2021-12-01
 img: portfolio.PNG
-alt: image-alt
+alt: kim-jonghee-portfolio
 project-date: 2021-12-01 ~ 2021-12-??
 client: Personal Project
 category: Web Development
