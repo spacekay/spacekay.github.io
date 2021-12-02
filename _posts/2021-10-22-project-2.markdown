@@ -8,5 +8,6 @@ alt: your-nuest-song
 project-date: 2021-10-22 ~ 2021-12-??
 client: Personal Project
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+url: https://github.com/spacekay/your-nuest-song
+description: 개인별 심리 테스트 결과를 기반으로 NU'EST의 곡들 중 일부를 추천하는 사이트입니다.<br><br>테스트를 시작할 때마다 Session에 현재 Case number를 담고, 이후 RESTful하게 문항별 결과를 server로 전송합니다. 이후 모든 문항에 설문이 끝나면 현재까지 해당 케이스에 기록된 parameter 별 점수를 기반으로 추천곡 리스트와 간단한 결과를 출력합니다.<br>결과에 대한 호불호를 설문하는 기능도 존재합니다. 
 ---
