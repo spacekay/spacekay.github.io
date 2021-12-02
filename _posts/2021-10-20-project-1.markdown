@@ -4,9 +4,10 @@ layout: default
 modal-id: 1
 date: 2021-10-20
 img: cake.png
-alt: image-alt
+alt: bitravel
 project-date: 2021-10-20 ~ ongoing (expected 2021-12-31)
 client: Educational Project
 category: Web Development
+url: https://github.com/bitravel/bitravel-project
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
