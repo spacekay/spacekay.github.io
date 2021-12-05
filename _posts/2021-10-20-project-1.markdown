@@ -9,5 +9,5 @@ project-date: 2021-10-20 ~ ongoing (expected 2021-12-31)
 client: Educational Project
 category: Web Development
 link: https://github.com/bitravel/bitravel-project
-description: <p class="text-center">한국관광공사 Tour API를 기반으로, 회원의 DB 상 기존 이력을 기반으로 다음 방문 여행지 및 관련 정보를 추천하는 사이트입니다.<br>추천 기능을 구현하기 위한 데이터는 회원 가입 시 수집한 정보 및 선호도 설문, 그리고 꾸준히 새로운 후기를 작성하며 누적된 여행지 방문 이력 등을 사용하고 있습니다.</p>
+description: 한국관광공사 Tour API 및 회원의 DB 상 기존 이력을 기반으로 다음 방문 여행지 및 관련 정보를 추천하는 사이트입니다.<br>추천 기능을 구현하기 위한 데이터는 회원 가입 시 수집한 정보 및 선호도 설문, 그리고 꾸준히 새로운 후기를 작성하며 누적된 여행지 방문 이력 등을 사용하고 있습니다.
 ---
