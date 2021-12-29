@@ -3,7 +3,7 @@ title: BITravel Project
 layout: default
 modal-id: 1
 date: 2021-10-20
-img: bitravel.PNG.png
+img: bitravel.png
 alt: bitravel
 project-date: 2021-10-20 ~ 2021-12-29
 client: Educational Project
