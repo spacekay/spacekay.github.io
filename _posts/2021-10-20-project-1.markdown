@@ -5,7 +5,7 @@ modal-id: 1
 date: 2021-10-20
 img: BITravel.PNG
 alt: bitravel
-project-date: 2021-10-20 ~ ongoing (expected 2021-12-30)
+project-date: 2021-10-20 ~ 2021-12-29
 client: Educational Project
 category: Web Development
 link: https://github.com/bitravel/bitravel-project
