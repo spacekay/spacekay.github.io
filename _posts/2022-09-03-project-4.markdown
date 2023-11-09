@@ -9,5 +9,5 @@ project-date: 2022-09-03 ~ 2023-04-20
 client: YG Entertainment (Data Science Team)
 category: Web Development
 link: https://spacekay.notion.site/Artist-Metadata-Admin-87613935acb045d38fddeb6430c4303b
-description: 내부 업무 시 자주 찾아보게 되지만 한 번에 확인하기 어려운 주요 KPOP 아티스트 메타데이터들을 모아서 볼 수 있는 업무용 사이트입니다. <br>아티스트별 소속사, 최근 컴백일 등 주요 정보를 내부 서버 DB를 통해 관리하고 검색하여 조회할 수 있습니다. <br>Django를 활용하여 개발하였으며, DB는 PostgreSQL로 구현하였습니다. <br>현재 uWSGI-nginx를 활용하여 사내망 한정 서비스 중입니다.
+description: 내부 업무 시 자주 찾아보게 되지만 한 번에 확인하기 어려운 주요 KPOP 아티스트 메타데이터들을 모아서 볼 수 있는 업무용 사이트입니다. <br>Django를 활용하여 개발하였으며, DB는 PostgreSQL로 구현하였습니다. <br>uWSGI-nginx를 활용하여 사내망 한정 서비스하였습니다.
 ---
