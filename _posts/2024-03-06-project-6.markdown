@@ -8,6 +8,6 @@ alt: yg-data-portal
 project-date: 2023-02-01 ~ 2024-03-06 (타 프로젝트 병행)
 client: YG Entertainment
 category: Web Development
-link: will be added
+link: https://spacekay.notion.site/87613935acb045d38fddeb6430c4303b
 description: 사내 부서 구성원들이 요구하는 여러 성과 데이터를 수집 및 적재하고 공유할 수 있도록 설계한 사내용 데이터 포털 사이트.
 ---
