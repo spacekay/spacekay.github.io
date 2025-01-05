@@ -1,0 +1,13 @@
+---
+title: Crysbe Cube
+layout: default
+modal-id: 7
+date: 2024-11-26
+img: cube_logo.svg
+alt: crysbe-cube
+project-date: 2023-4Q ~ 2024-4Q (신규 개발 기간 한정)
+client: Blank Corp. (서비스 오픈 순, TBU)
+category: Web Development
+link: https://cube.crysbe.com
+description: 고성장하는 스타트업, 중소기업을 위한 매출/마케팅 경영 성과 관리 SaaS로, 2025년 1월 기준 주로 소비재 기업둘을 고객으로 하여 서비스 개발 및 운영 진행 중.
+---
