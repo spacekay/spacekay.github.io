@@ -1,7 +1,7 @@
 # Site settings
 title: "KIM JONG HEE"
 encoding: UTF-8
-email: bethjkim0311@gmail.com
+email: thespacekay@gmail.com
 url: https://spacekay.github.io/
 description: "웹 개발자로서의 새로운 세계로 한 발짝을 내딛는, 모험가 김종희입니다."
 keywords: "김종희,spacekay,kimjonghee,backend,java,python,javascript,springboot,django"
@@ -18,7 +18,7 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-contact: disqus
+contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
@@ -47,8 +47,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 서울 관악구 남현2길 59
-  - line: bethjkim0311@gmail.com
+  - line: 서울 서대문구 거북골로
+  - line: thespacekay@gmail.com
   - line: 010-7237-7695
 
 # Credits content
