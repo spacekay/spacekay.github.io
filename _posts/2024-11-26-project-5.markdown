@@ -1,0 +1,13 @@
+---
+title: Crysbe
+layout: default
+modal-id: 5
+date: 2024-11-26
+img: cube_logo.png
+alt: crysbe-cube
+project-date: 2024-06 ~ 2024-12 (신규 개발 중 참여 기간)
+client: 소비재 기업 및 마케팅 담당자
+category: Web Development
+link: https://crysbe.com
+description: 고성장하는 스타트업, 중소기업을 위한 매출/마케팅 경영 성과 관리 SaaS. 마케팅 전용 플랜 및 재고 및 입출고 관리 서비스도 제공 예정.<br><a href="https://spacekay.notion.site/Crysbe-2cff9a8de36f80d3a216e5966b03b29f" target="_blank">상세 설명 보기</a>
+---

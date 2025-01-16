@@ -1,0 +1,13 @@
+---
+title: Song Discovery Web App (Undisclosed)
+layout: default
+modal-id: 6
+date: 2026-02-13
+img: bsf_logo.png
+alt: bsf
+project-date: 2025-01 ~ 2025-02, 2026-01 ~ (Private beta, closed access)
+client: 아티스트 작품 정보에 관심도가 높은 음악 팬덤 및 일반 대중
+category: Web Development
+link: TBU
+description: 수많은 명곡을 보유한 어느 음악 그룹의 곡을 스무 고개 형식으로 탐색할 수 있도록 하는 웹 앱.<br><a href="https://www.notion.so/spacekay/Song-Discovery-Web-App-Undisclosed-308f9a8de36f80e38e79f3be814e52a8" target="_blank">상세 설명 보기</a>
+---

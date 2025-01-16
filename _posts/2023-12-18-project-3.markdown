@@ -1,0 +1,13 @@
+---
+title: YG Audition
+layout: default
+modal-id: 3
+date: 2023-12-18
+img: yg-audition.png
+alt: yg-audition
+project-date: 2023-07-17 ~ 2023-12-18 (개발 기간 한정)
+client: YG Entertainment (오디션캐스팅팀)
+category: Web Development
+link: https://www.yg-audition.com/
+description: YG Entertainment의 오디션에 전 세계에서 온라인으로 지원할 수 있는 서비스 사이트(대외용, PV 및 지원자수는 대외비)와, 오디션 담당 부서 직원들이 서비스 페이지 및 지원자 관리를 진행할 수 있는 관리자 사이트(사내용)를 동시에 개발하였습니다.<br><a href="https://spacekay.notion.site/YG-AUDITION-0fd47bd3e5fd4554bf33bb2e636185c1" target="_blank">상세 설명 보기</a>
+---
