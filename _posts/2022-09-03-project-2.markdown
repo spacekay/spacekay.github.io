@@ -1,0 +1,13 @@
+---
+title: Artist Metadata Admin
+layout: default
+modal-id: 2
+date: 2022-09-04
+img: metadata.png
+alt: artist-metadata-admin
+project-date: 2022-09-03 ~ 2023-04-20
+client: YG Entertainment (Data Science Team)
+category: Web Development
+link: https://spacekay.notion.site/Artist-Metadata-Admin-a0c648adbd1f403f8f42d2d0223a998b
+description: 내부 업무 시 자주 찾아보게 되지만 한 번에 확인하기 어려운 주요 KPOP 아티스트 메타데이터들을 모아서 볼 수 있는 업무용 사이트입니다. <br>Django를 활용하여 개발하였으며, DB는 PostgreSQL로 구현하였습니다. <br>uWSGI-nginx를 활용하여 사내망 한정 서비스하였습니다.
+---
