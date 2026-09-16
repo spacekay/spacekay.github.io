@@ -185,6 +185,24 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
+.tech-stack-group {
+    margin-top: 35px;
+}
+
+.tech-stack-items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.tech-stack-items .btn {
+    margin-top: 0;
+    border-radius: 15px;
+    font-weight: 700;
+    cursor: default;
+    pointer-events: none;
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
