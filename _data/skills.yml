@@ -1,0 +1,16 @@
+- key: languages
+  items: [Python, Java, Kotlin, TypeScript, JavaScript]
+- key: frameworks
+  items: [Django, FastAPI, Spring Boot, NestJS]
+- key: ai
+  items: [LangChain, LangGraph, Qdrant]
+- key: databases
+  items: [PostgreSQL, MySQL, MariaDB, Neo4j, SQLite, MongoDB, Elasticsearch]
+- key: data
+  items: [Jupyter Notebook, pandas, Polars]
+- key: messaging
+  items: [Redis, RabbitMQ, Celery]
+- key: devops
+  items: [Docker, Nginx, AWS, Grafana, Prometheus, Jenkins]
+- key: vcs
+  items: [Git, GitHub]

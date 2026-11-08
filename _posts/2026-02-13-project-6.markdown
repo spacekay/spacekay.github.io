@@ -4,10 +4,20 @@ layout: default
 modal-id: 6
 date: 2026-02-13
 img: bsf_logo.png
-alt: bsf
-project-date: 2025-01 ~ 2025-02, 2026-01 ~ 2026-03
-client: 아티스트 작품 정보에 관심도가 높은 음악 팬덤 및 일반 대중
-category: Web Development
+alt: "Bias Song Finder 음악 탐색 웹 앱"
+project-date: "2025-01 ~ 2025-02, 2026-01 ~ 2026-03"
+client: "아티스트의 음악에 관심이 있는 팬과 일반 이용자"
+category: "웹 개발"
 link: https://biassongfinder.com
-description: 수많은 명곡을 보유한 여러 음악 그룹의 곡을 스무 고개 형식으로 탐색할 수 있도록 하는 웹 앱.<br><a href="https://spacekay.notion.site/Bias-Song-Finder-308f9a8de36f80e38e79f3be814e52a8" target="_blank">상세 설명 보기</a>
+description: >-
+  여러 음악 그룹의 다양한 곡을 스무고개 형식의 질문에 답하며 탐색할 수 있는 웹 앱입니다.
+details_url: https://spacekay.notion.site/Bias-Song-Finder-308f9a8de36f80e38e79f3be814e52a8
+en:
+  title: "Bias Song Finder"
+  alt: "Bias Song Finder music discovery web app"
+  project-date: "2025-01 ~ 2025-02, 2026-01 ~ 2026-03"
+  client: "Music fans and general listeners interested in artists’ work"
+  category: "Web Development"
+  description: >-
+    A web app for exploring songs by different music groups through a series of questions inspired by Twenty Questions.
 ---

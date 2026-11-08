@@ -502,3 +502,110 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+/* Localized navigation and content */
+.language-switch {
+    display: flex;
+    float: right;
+    align-items: center;
+    gap: 10px;
+    margin-left: 32px;
+    padding: 8px 15px 8px 24px;
+    border-left: 1px solid rgba(255, 255, 255, .3);
+    color: #fff;
+    text-transform: none;
+    letter-spacing: normal;
+}
+
+.language-switch a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+    color: #fff;
+}
+
+.language-switch a[aria-current="page"] {
+    text-decoration: underline;
+    text-underline-offset: 5px;
+}
+
+.navbar .language-switch a:focus-visible,
+.portfolio-modal button:focus-visible {
+    outline: 2px solid currentColor;
+    outline-offset: 4px;
+}
+
+.career-timeline {
+    margin-top: 60px;
+    padding-top: 30px;
+    border-top: 1px solid rgba(255, 255, 255, .5);
+}
+
+.timeline-list {
+    padding: 0;
+    list-style: none;
+}
+
+.timeline-list li {
+    margin: 30px 0;
+}
+
+.timeline-list p,
+.project-description {
+    line-height: 1.7;
+    overflow-wrap: break-word;
+}
+
+.project-description {
+    text-align: left;
+}
+
+.portfolio-modal .close-modal {
+    padding: 0;
+    border: 0;
+}
+
+.portfolio-modal .close-modal .lr,
+.portfolio-modal .close-modal .rl {
+    display: block;
+}
+
+.portfolio-modal .modal-body > .btn-default {
+    color: #{{ site.color.secondary }};
+    border-color: #{{ site.color.secondary }};
+}
+
+.portfolio-modal .item-details li {
+    margin-bottom: 10px;
+}
+
+@media(min-width:768px) {
+    .navbar .navbar-nav.navbar-right:last-child {
+        margin-right: 0;
+    }
+}
+
+@media(max-width:767px) {
+    .language-switch {
+        float: none;
+        justify-content: center;
+        margin: 0 0 12px;
+        padding: 4px 15px 0;
+        border-left: 0;
+        border-top: 1px solid rgba(255, 255, 255, .2);
+    }
+
+    header .container {
+        padding-top: 160px;
+    }
+
+    .portfolio-modal .modal-content h2 {
+        font-size: 2em;
+        overflow-wrap: break-word;
+    }
+
+    .timeline-list p,
+    .project-description {
+        font-size: 18px;
+    }
+}

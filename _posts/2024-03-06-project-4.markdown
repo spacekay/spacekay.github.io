@@ -4,10 +4,19 @@ layout: default
 modal-id: 4
 date: 2024-03-06
 img: YG_Entertainment_Logo.png
-alt: yg-data-portal
-project-date: 2023-05-01 ~ 2024-03-06 (타 프로젝트 병행)
+alt: "YG Entertainment 사내 데이터 포털"
+project-date: "2023-05-01 ~ 2024-03-06 (다른 프로젝트와 병행)"
 client: YG Entertainment
-category: Web Development
+category: "웹 개발"
 link: https://spacekay.notion.site/87613935acb045d38fddeb6430c4303b
-description: 사내 부서 구성원들이 요구하는 여러 성과 데이터를 수집 및 적재하고 공유할 수 있도록 설계한 사내용 데이터 포털 사이트.
+description: >-
+  사내 여러 부서에서 필요로 하는 성과 데이터를 수집 및 적재하고 공유할 수 있도록 설계한 내부 데이터 포털입니다.
+en:
+  title: "Internal Data Portal"
+  alt: "YG Entertainment internal data portal"
+  project-date: "2023-05-01 ~ 2024-03-06 (alongside other projects)"
+  client: "YG Entertainment"
+  category: "Web Development"
+  description: >-
+    An internal data portal designed to collect, store, and share performance data needed by teams across the company.
 ---

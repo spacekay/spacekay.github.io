@@ -1,10 +1,10 @@
 # Site settings
 title: "KIM JONG HEE"
 encoding: UTF-8
-url: https://spacekay.github.io/
-description: "개발자로서의 새로운 세계로 한 발짝을 내딛는, 모험가 김종희입니다."
+url: https://spacekay.github.io
+lang: ko
+description: "상상력을 바탕으로 새로운 도전에 나서며 꾸준히 성장하는 백엔드 개발자 김종희입니다."
 keywords: "김종희,spacekay,kimjonghee,backend,java,kotlin,python,springboot,django"
-skills: "Imaginative, Risk-taking, Pursuing Self-improvement"
 meta_author: Kim Jonghee
 
 # Google webmaster tools
@@ -33,9 +33,6 @@ color:
 # Footer settings
 footer:
   copyright: 김종희 KIM JONGHEE
-  location: Location
-  social: Around the Web
-  credits: Credit
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -44,12 +41,7 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/jonghee-kim-space
 
-# Postal address (add as many lines as necessary)
-address:
-  - line: Seoul, Korea
-
-# Credits content
-credits: 'This page is powered by<br>Freelancer theme by Bootstrap'
+# Localized copy, skills, and career history are maintained in _data/.
 
 # Build settings
 markdown: kramdown

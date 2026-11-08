@@ -1,5 +1,7 @@
+{% assign locale = page.lang | default: site.lang | default: 'ko' %}
+{% assign t = site.data.locales[locale] %}
 <!DOCTYPE html>
-<html>
+<html lang="{{ locale }}">
     {% include head.html %}
     <body id="page-top" class="index">
     {% include nav.html %}

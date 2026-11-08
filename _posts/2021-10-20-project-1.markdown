@@ -4,10 +4,21 @@ layout: default
 modal-id: 1
 date: 2021-10-20
 img: bitravel.png
-alt: bitravel
-project-date: 2021-10-20 ~ 2021-12-29
-client: Educational Project
-category: Web Development
+alt: "BITravel 여행지 추천 프로젝트"
+project-date: "2021-10-20 ~ 2021-12-29"
+client: "교육 프로젝트"
+category: "웹 개발"
 link: https://github.com/bitravel/bitravel-project
-description: 한국관광공사 Tour API 및 회원의 DB 상 기존 이력을 기반으로 다음 방문 여행지 및 관련 정보를 추천하는 사이트.<br>추천 기능을 구현하기 위한 데이터는 회원 가입 시 수집한 정보 및 선호도 설문, 그리고 꾸준히 새로운 후기를 작성하며 누적된 여행지 방문 이력 등을 사용하고 있음.
+description: >-
+  한국관광공사의 TourAPI와 회원의 여행 이력을 활용해 다음에 방문할 여행지와 관련 정보를 추천하는 웹사이트입니다.<br>
+  회원가입 시 입력한 정보, 여행 선호도 설문 응답, 후기 작성으로 쌓인 방문 이력을 추천에 활용합니다.
+en:
+  title: "BITravel Project"
+  alt: "BITravel travel recommendation project"
+  project-date: "2021-10-20 ~ 2021-12-29"
+  client: "Educational project"
+  category: "Web Development"
+  description: >-
+    A website that recommends travel destinations and related information using the Korea Tourism Organization’s TourAPI and members’ travel histories.<br>
+    Recommendations draw on registration details, travel preference surveys, and destination visits recorded through members’ reviews.
 ---

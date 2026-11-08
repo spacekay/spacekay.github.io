@@ -4,10 +4,22 @@ layout: default
 modal-id: 5
 date: 2024-11-26
 img: cube_logo.png
-alt: crysbe-cube
-project-date: 2024-06 ~ 2024-12 (신규 개발 중 참여 기간)
+alt: "Crysbe 경영 성과 관리 서비스"
+project-date: "2024-06 ~ 2024-12 (신규 개발 참여 기간)"
 client: 소비재 기업 및 마케팅 담당자
-category: Web Development
+category: "웹 개발"
 link: https://crysbe.com
-description: 고성장하는 스타트업, 중소기업을 위한 매출/마케팅 경영 성과 관리 SaaS. 마케팅 전용 플랜 및 재고 및 입출고 관리 서비스도 제공 예정.<br><a href="https://spacekay.notion.site/Crysbe-2cff9a8de36f80d3a216e5966b03b29f" target="_blank">상세 설명 보기</a>
+description: >-
+  빠르게 성장하는 스타트업과 중소기업을 위한 매출, 마케팅 성과 관리 SaaS입니다.<br>
+  마케팅 전용 플랜과 재고, 입출고 관리 서비스도 제공합니다.
+details_url: https://spacekay.notion.site/Crysbe-2cff9a8de36f80d3a216e5966b03b29f
+en:
+  title: "Crysbe"
+  alt: "Crysbe business performance management service"
+  project-date: "2024-06 ~ 2024-12 (initial development participation)"
+  client: "Consumer goods companies and marketing professionals"
+  category: "Web Development"
+  description: >-
+    A SaaS platform for managing sales and marketing performance at fast-growing startups and small and medium-sized businesses.<br>
+    It also offers a marketing-focused plan and services for inventory management and inbound and outbound stock tracking.
 ---

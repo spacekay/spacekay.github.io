@@ -1,0 +1,68 @@
+ko:
+  name: Jonghee Kim
+  page_title: 김종희 | 백엔드 개발자
+  description: 상상력을 바탕으로 새로운 도전에 나서며 꾸준히 성장하는 백엔드 개발자 김종희입니다.
+  tagline: Imaginative, open to challenges, and always learning
+  portfolio: Portfolio
+  about: About
+  navigation: 메뉴 열기 및 닫기
+  language_navigation: 언어 선택
+  skills: Skills
+  skill_groups:
+    languages: 프로그래밍 언어
+    frameworks: 웹 프레임워크
+    ai: AI / LLM
+    databases: 데이터베이스
+    data: 데이터 분석 및 처리
+    messaging: 비동기 처리 및 메시징
+    devops: DevOps
+    vcs: 버전 관리
+  timeline: Timeline
+  present: 현재
+  fno: 앞으로도 저는,
+  closing: 성장을 위한 도전을 멈추지 않겠습니다.
+  client: 의뢰 조직 / 대상 사용자
+  project_date: 참여 기간
+  category: 분야
+  details: 자세히 보기
+  close: 닫기
+  top: 맨 위로
+  location: 위치
+  address: 대한민국 서울
+  social: 소셜 링크
+  credits: 제작 기반
+  credit_text: Jekyll과 Freelancer 테마를 기반으로 제작했습니다.
+en:
+  name: Jonghee Kim
+  page_title: Jonghee Kim | Backend Developer
+  description: I’m Jonghee Kim, a backend developer driven by imagination, new challenges, and continuous learning.
+  tagline: Imaginative, open to challenges, and always learning
+  portfolio: Portfolio
+  about: About
+  navigation: Toggle navigation
+  language_navigation: Language selection
+  skills: Skills
+  skill_groups:
+    languages: Programming Languages
+    frameworks: Web Frameworks
+    ai: AI / LLM
+    databases: Databases
+    data: Data Analysis & Processing
+    messaging: Asynchronous Processing & Messaging
+    devops: DevOps
+    vcs: Version Control
+  timeline: Timeline
+  present: Present
+  fno: From now on,
+  closing: I will continue to take on new challenges and grow.
+  client: Client / Audience
+  project_date: Participation Period
+  category: Category
+  details: Read more (Korean only)
+  close: Close
+  top: Back to top
+  location: Location
+  address: Seoul, South Korea
+  social: Around the Web
+  credits: Credits
+  credit_text: Built with Jekyll and the Freelancer theme.

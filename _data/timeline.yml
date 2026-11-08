@@ -1,0 +1,31 @@
+- start: "2012.03"
+  end: "2018.02"
+  ko: 서울대학교 기계항공공학부에서 기계공학을 공부했습니다.
+  en: Studied mechanical engineering in the Department of Mechanical and Aerospace Engineering at Seoul National University.
+- start: "2015.09"
+  end: "2016.08"
+  ko: 일본 교토대학교에서 1년간 교환학생으로 공부했습니다.
+  en: Spent one year as an exchange student at Kyoto University in Japan.
+- start: "2018.01"
+  end: "2020.07"
+  ko: SK하이닉스에서 패키지 회로 설계를 담당하는 하드웨어 엔지니어로 근무했습니다.
+  en: Worked as a hardware engineer at SK hynix, focusing on package circuit design.
+- start: "2021.06"
+  end: "2022.02"
+  ko: 컴퓨터 과학과 웹 개발을 공부하며, 백엔드 개발을 중심으로 실습 경험을 쌓았습니다.
+  en: Studied computer science and web development, gaining hands-on experience with a focus on backend development.
+- start: "2022.03"
+  end: "2023.04"
+  ko: YG Entertainment의 Data Insight / Data Science 팀에서 데이터 분석가로 근무했습니다.
+  en: Worked as a data analyst on the Data Insight / Data Science team at YG Entertainment.
+- start: "2023.05"
+  end: "2024.05"
+  ko: YG Entertainment의 IT개발팀에서 백엔드 개발자로 근무했습니다.
+  en: Worked as a backend developer on the IT Development team at YG Entertainment.
+- start: "2024.06"
+  end: "2026.03"
+  ko: Crysbe Inc.에서 백엔드 개발자로 근무했습니다.
+  en: Worked as a backend developer at Crysbe Inc.
+- start: "2026.05"
+  ko: Smartmind AI에서 백엔드 개발자로 근무하고 있습니다.
+  en: Working as a backend developer at Smartmind AI.
