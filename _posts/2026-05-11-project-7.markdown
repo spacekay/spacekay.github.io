@@ -1,0 +1,13 @@
+---
+title: Qurify
+layout: default
+modal-id: 7
+date: 2026-05-11
+img: qurify_logo.png
+alt: qurify
+project-date: (In participation) 2026-05 ~ ongoing
+client: 내부 데이터와 문서를 활용하려는 기업 및 조직
+category: Web Development
+link: https://qurify.ai
+description: DB, 파일 데이터 RAG 인덱스 기반 온톨로지 챗봇.<br>DB 스키마, 파일 내용 및 사용자 정의 맥락 정보를 청크 단위로 분할 후 임베딩 및 구조화, 그룹화하여 RDB, Search engine, Vector DB, GraphDB 적재 후 검색 시 활용.<br><a href="https://spacekay.notion.site/Qurify-40ff9a8de36f80b38b6cdba4c0895ae3" target="_blank">상세 설명 보기</a>
+---
