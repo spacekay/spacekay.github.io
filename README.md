@@ -14,6 +14,8 @@ The name, hero tagline, navigation labels, and main section headings stay in Eng
 - `_posts/*.markdown`: Korean project fields at the top level, with matching English fields under `en`. Translate `title`, `alt`, `project-date`, `client`, `category`, and `description` for every project. Keep IDs, image filenames, dates, and URLs shared. Use `details_url` for an optional detail page; its content is maintained separately.
 - `_config.yml`: Shared site settings. Keep the Korean feed description aligned with the Korean description in `locales.yml`.
 
+Social links use inline SVGs from Font Awesome Free 6.1.2 in `_includes/icons/` so the logos do not depend on webfont loading. Each `social.title` in `_config.yml` must match an SVG filename. Preserve the attribution comments in these SVGs and the [Font Awesome license](css/font-awesome/LICENSE.txt). SVG paths are unchanged from [upstream](https://github.com/FortAwesome/Font-Awesome/tree/6.1.2/svgs/brands); sizing, color, and accessibility attributes are applied for this site. Brand marks belong to their respective owners and are used only to link to the corresponding profiles. Follow the [GitHub](https://brand.github.com/foundations/logo) and [LinkedIn](https://brand.linkedin.com/in-logo) usage guidelines when updating them.
+
 Project descriptions use YAML folded strings (`>-`); `<br>` separates paragraphs. Keep career dates and project participation periods consistent between languages. Distinguish past plans from released features when updating project copy.
 
 ## Local development

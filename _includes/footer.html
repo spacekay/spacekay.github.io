@@ -9,13 +9,15 @@
             {{ t.address }}
           </p>
         </div>
-        <div class="footer-col col-md-4">
+        <div class="footer-col footer-social col-md-4">
           <h3>{{ t.social }}</h3>
           <ul class="list-inline">
             {% for network in site.social %}
             <li>
-              <a href="{{ network.url }}" class="btn-social btn-outline" aria-label="{{ network.title | escape }}"><i
-                  class="fa-brands fa-fw fa-{{ network.title }}" aria-hidden="true"></i></a>
+              {% assign social_icon = 'icons/' | append: network.title | append: '.svg' %}
+              <a href="{{ network.url }}" class="btn-social btn-outline" aria-label="{{ network.title | escape }}">
+                {% include {{ social_icon }} %}
+              </a>
             </li>
             {% endfor %}
           </ul>
