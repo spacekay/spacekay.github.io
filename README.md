@@ -20,7 +20,7 @@ Project descriptions use YAML folded strings (`>-`); `<br>` separates paragraphs
 
 ## Local development
 
-Use a separate development Ruby rather than macOS’s system Ruby. This site has been verified with Homebrew Ruby 3.4.12 and Bundler 2.6.9. The inherited gemspec requires Bundler 2.x.
+Use a separate development Ruby rather than macOS’s system Ruby. The repository's `.ruby-version` records the verified Ruby 3.4.12 environment, and `Gemfile.lock` records the resolved gems and Bundler 2.6.9. The inherited gemspec requires Bundler 2.x.
 
 For a new Homebrew setup:
 
@@ -45,3 +45,20 @@ bundle exec jekyll build --strict_front_matter
 The existing `bundle exec rake test` task also checks links with HTMLProofer and requires network access. Deployment continues to use the existing GitHub Pages setup.
 
 The inherited empty post permalinks produce a Jekyll warning because project posts share `/index.html` as their output destination. The portfolio currently renders these posts as dialogs; this change preserves that existing URL setup.
+
+## Dependency maintenance
+
+Commit `Gemfile.lock` with dependency changes so local installs use the same resolved versions. Keep gems installed for other projects intact; use a checkout-specific bundle when isolation is needed:
+
+```sh
+bundle config set --local path vendor/bundle
+bundle _2.6.9_ install
+```
+
+Both `.bundle/` and `vendor/bundle/` are ignored. This setting applies only to this checkout. To undo a committed cleanup, revert that commit and run `bundle _2.6.9_ install` again.
+
+The gemspec retains Jekyll, the local preview server, Rake, and HTMLProofer. Pagination, sitemap, gist, emoji, feed, and theme-data plugins are not needed by the current layout: `_data/` is native to Jekyll, and `feed.xml` is maintained directly. The inherited theme packaging structure remains in place to keep this cleanup small.
+
+The current layout has no contact form or Disqus section, so their scripts and form validation plugin are not loaded. Inherited contact templates and assets remain in the repository; restoring that feature also requires restoring its scripts. jQuery, Bootstrap, and the navigation animation helpers remain at their existing versions.
+
+GitHub Pages continues to build `master` with its managed Jekyll environment. The Ruby version and lockfile describe local development; they do not pin the managed Pages builder. Changes to deployment settings or build tooling should be handled separately.
