@@ -566,6 +566,23 @@ footer .footer-below {
     border-top: 1px solid rgba(255, 255, 255, .5);
 }
 
+.career-summary {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 8px 16px;
+    margin: 20px 0 30px;
+}
+
+.career-summary strong {
+    font-size: 1.2em;
+}
+
+.career-summary-period {
+    font-size: 16px;
+    opacity: .85;
+}
+
 .timeline-list {
     padding: 0;
     list-style: none;

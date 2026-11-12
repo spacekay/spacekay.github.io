@@ -6,6 +6,7 @@ lang: ko
 description: "상상력을 바탕으로 새로운 도전에 나서며 꾸준히 성장하는 백엔드 개발자 김종희입니다."
 keywords: "김종희,spacekay,kimjonghee,backend,java,kotlin,python,springboot,django"
 meta_author: Kim Jonghee
+backend_experience_start: "2023-05-01"
 
 # Google webmaster tools
 google_verify:
